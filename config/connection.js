@@ -1,5 +1,4 @@
-var mysql = require("mysql")
-//var connection = require orm
+var mysql = require("mysql");
 
 //setting connection info
 var connection = mysql.createConnection({
