@@ -1,7 +1,7 @@
 var express = require("express");
 var bodyParser = require("body-parser");
 // Set port or use an available post with code below
-var PORT = process.env.PORT || 3306;
+var PORT = process.env.PORT || 3000;
 
 var app = express();
 
